@@ -1,7 +1,5 @@
-# **Bash Notes For Professionals**
+# **Mục lục**
 
-## **Mục lục**
-
-### câu lệnh Linux
+## câu lệnh Linux
 
 ### [linux_network](./../Linux_network/)
