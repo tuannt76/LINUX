@@ -2,4 +2,4 @@
 
 ## câu lệnh Linux
 
-### [linux_network](./../Linux_network/)
+### [linux_network](./../Linux_network)
