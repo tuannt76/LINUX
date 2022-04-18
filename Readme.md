@@ -1,5 +1,10 @@
 # **Mục lục**
 
-## câu lệnh Linux
+## 1.Command Linux
 
-### [linux_network](./Linux_network/)
+### [1.1. Linux_network](./Linux_network/)
+#### [1.1.1 IP_and_nmcli  ](./Linux_network/1.Ip%20and%20nmcli%20commands.md)
+#### [1.1.2 MTR_command](./Linux_network/2.The%20mtr%20command.md)
+#### [1.1.3 SS_and_Netsart](./Linux_network/3.SS%20and%20Netstat%20commands.md)
+#### [1.1.4 Curd_command](./Linux_network/4.Curl%20command.md)
+### [1.2.Linux_Ubuntu](./Linux-Ubuntu_(Essential_Commands)/)
