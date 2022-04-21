@@ -56,7 +56,7 @@
 6. [vim](./6.Text-Editor/vim.md)
 #### [VII. lsof (LiSt Open Files)](./Linux_Ubuntu/7.lsof(List-Open-Files).md)
 
-## <h1>[2.Protocol](./LinuxBasic/Ghi_ch%C3%A9p_Protocol/)</h1>
+## <h2>[2.Protocol](./LinuxBasic/Ghi_ch%C3%A9p_Protocol/)</h2>
 
 1. [ICMP_Protocol](./LinuxBasic/Ghi_ch%C3%A9p_Protocol/Protocol%20ICMP.md)
 
@@ -83,3 +83,18 @@
 1. [install_LAMP](./LinuxBasic/Ghi_ch%C3%A9p_Apache/Install_LAMP.md)
 
 2. [Install_HTTPS_Apache_Linux](./LinuxBasic/Ghi_ch%C3%A9p_Apache/Install_HTTPS_Apache_Linux.md)
+
+## <h2>[4.NginX](./LinuxBasic/Ghi_ch%C3%A9p_NginX/)
+
+1. [](./LinuxBasic/Ghi_ch%C3%A9p_NginX/Kh%C3%A1i_ni%E1%BB%87m_c%C6%A1_b%E1%BA%A3n_Config_NginX.md)
+2. [](./LinuxBasic/Ghi_ch%C3%A9p_NginX/Nginx%20Reverse%20Proxy%20Apache.md)
+3. [](./LinuxBasic/Ghi_ch%C3%A9p_NginX/Nginx-virtualhost-block-IP.md)
+4. [](./LinuxBasic/Ghi_ch%C3%A9p_NginX/NginX_HA_Proxy.md)
+5. [](./LinuxBasic/Ghi_ch%C3%A9p_NginX/Nginx_Reverse_Proxy_apache(Virualhost%2CBlockIP...).md)
+6. [](./LinuxBasic/Ghi_ch%C3%A9p_NginX/NginX_SSL.md)
+
+## <h2>[5.Wordpress](./LinuxBasic/Ghi_ch%C3%A9p_WordPress/)
+
+1. [Install_WordPress](./LinuxBasic/Ghi_ch%C3%A9p_WordPress/Install_WordPress.md)
+2. [WorldPress_DB_Maria_Cluster](./LinuxBasic/Ghi_ch%C3%A9p_WordPress/WordPress%2BDB%20maria%20cluster.md)
+
