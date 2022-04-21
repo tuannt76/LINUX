@@ -86,12 +86,11 @@
 
 ## <h2>[4.NginX](./LinuxBasic/Ghi_ch%C3%A9p_NginX/)
 
-1. [](./LinuxBasic/Ghi_ch%C3%A9p_NginX/Kh%C3%A1i_ni%E1%BB%87m_c%C6%A1_b%E1%BA%A3n_Config_NginX.md)
-2. [](./LinuxBasic/Ghi_ch%C3%A9p_NginX/Nginx%20Reverse%20Proxy%20Apache.md)
-3. [](./LinuxBasic/Ghi_ch%C3%A9p_NginX/Nginx-virtualhost-block-IP.md)
-4. [](./LinuxBasic/Ghi_ch%C3%A9p_NginX/NginX_HA_Proxy.md)
-5. [](./LinuxBasic/Ghi_ch%C3%A9p_NginX/Nginx_Reverse_Proxy_apache(Virualhost%2CBlockIP...).md)
-6. [](./LinuxBasic/Ghi_ch%C3%A9p_NginX/NginX_SSL.md)
+1. [Khái_niêm_cơ_bản_Config_NginX](./LinuxBasic/Ghi_ch%C3%A9p_NginX/Kh%C3%A1i_ni%E1%BB%87m_c%C6%A1_b%E1%BA%A3n_Config_NginX.md)
+2. [NginX_Reverse_proxy_Apache](./LinuxBasic/Ghi_ch%C3%A9p_NginX/Nginx%20Reverse%20Proxy%20Apache.md)
+3. [NginX_Reverse_Proxy_apache(virtualhost,blockIP,....)](./LinuxBasic/Ghi_ch%C3%A9p_NginX/Nginx-virtualhost-block-IP.md)
+4. [NginX_HA_proxy](./LinuxBasic/Ghi_ch%C3%A9p_NginX/NginX_HA_Proxy.md)
+5. [NginX_SSL](./LinuxBasic/Ghi_ch%C3%A9p_NginX/NginX_SSL.md)
 
 ## <h2>[5.Wordpress](./LinuxBasic/Ghi_ch%C3%A9p_WordPress/)
 
