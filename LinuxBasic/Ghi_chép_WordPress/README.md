@@ -10,7 +10,7 @@ Thực hiện lệnh sau
 
 ```
 yum install wget -y
-wget https://raw.githubusercontent.com/TuanNguyen76/TaiLieuCaNhan/T%C3%A0i-li%E1%BB%87u-c%C3%A1-nh%C3%A2n/LINUX/Bash_script/SetupWordpress/Wordpress.sh
+wget https://github.com/tuannt76/Linux/blob/main/LinuxBasic/Ghi_ch%C3%A9p_WordPress/Tool_Wordpress.sh
 ```
 
 
