@@ -10,7 +10,7 @@ Thực hiện lệnh sau
 
 ```
 yum install wget -y
-wget https://github.com/tuannt76/Linux/blob/main/LinuxBasic/Ghi_ch%C3%A9p_WordPress/Tool_Wordpress.sh
+wget https://github.com/tuannt76/Linux/blob/main/LinuxBasic/Ghi_ch%C3%A9p_WordPress/wordpress.sh
 ```
 
 
@@ -18,7 +18,7 @@ wget https://github.com/tuannt76/Linux/blob/main/LinuxBasic/Ghi_ch%C3%A9p_WordPr
 Thực hiện lệnh:
 
 ```
-chmod +x Tool_Wordpress.sh
+chmod +x wordpress.sh
 ```
 
 **Bước 3**: Chạy script
@@ -26,7 +26,7 @@ chmod +x Tool_Wordpress.sh
 Thực hiện lệnh
 
 ```
-bash Tool_Wordpress.sh
+bash wordpress.sh
 ```
 
 Bước 4 : điền các thông số để hoàn thành cài wordpress
