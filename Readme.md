@@ -99,4 +99,4 @@
 
 1. [Install_WordPress](./LinuxBasic/Ghi_ch%C3%A9p_WordPress/Install_WordPress.md)
 2. [WorldPress_DB_Maria_Cluster](./LinuxBasic/Ghi_ch%C3%A9p_WordPress/WordPress%2BDB%20maria%20cluster.md)
-3. [Srcips_WP](./LinuxBasic/Ghi_chép_WordPress/Tool_Wordpress.sh)
+3. [scripts_WP](./LinuxBasic/Ghi_chép_WordPress/Tool_Wordpress.sh)
