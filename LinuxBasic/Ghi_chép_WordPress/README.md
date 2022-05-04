@@ -18,7 +18,7 @@ wget https://github.com/tuannt76/Linux/blob/main/LinuxBasic/Ghi_ch%C3%A9p_WordPr
 Thực hiện lệnh:
 
 ```
-chmod +x Tool_wordpress.sh
+chmod +x Tool_Wrdpress.sh
 ```
 
 **Bước 3**: Chạy script
