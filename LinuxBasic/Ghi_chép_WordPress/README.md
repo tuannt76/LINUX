@@ -18,7 +18,7 @@ wget https://github.com/tuannt76/Linux/blob/main/LinuxBasic/Ghi_ch%C3%A9p_WordPr
 Thực hiện lệnh:
 
 ```
-chmod +x wordpress.sh
+chmod +x Tool_wordpress.sh
 ```
 
 **Bước 3**: Chạy script
@@ -26,7 +26,7 @@ chmod +x wordpress.sh
 Thực hiện lệnh
 
 ```
-bash Wordpress.sh
+bash Tool_Wordpress.sh
 ```
 
 Bước 4 : điền các thông số để hoàn thành cài wordpress
