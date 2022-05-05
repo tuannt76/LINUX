@@ -30,7 +30,15 @@ Thực hiện lệnh
 bash wordpress.sh
 ```
 
-Bước 4 : điền các thông số để hoàn thành cài wordpress
+Bước 4 : điền các thông số hiện trên màn hình để hoàn thành cài wordpress
 
 
+Bước 5 : Đăng nhập bằng địa chỉ và thực hiện tạo user  :
 
+Tạo site và username :
+
+![Imgur](https://i.imgur.com/RytLrjA.png)
+
+Giao diện sau khi đăng nhập :
+
+![Imgur](https://i.imgur.com/GAP2EnY.png)
