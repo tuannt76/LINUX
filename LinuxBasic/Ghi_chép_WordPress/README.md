@@ -1,6 +1,6 @@
 
 
-**Tài liệu hướng dẫn sử dụng Tool Setup_WordPress**
+**Tài liệu hướng dẫn sử dụng Setup_WordPress sử dụng script**
 
 
 *Thực hiện trên dòng lệnh Linux*
