@@ -1,9 +1,9 @@
 
 
-**Tài liệu hướng dẫn sử dụng Setup_WordPress sử dụng script**
+**Tài liệu hướng dẫn Cài đặt WordPress sử dụng script**
 
 
-*Thực hiện trên dòng lệnh Linux*
+*Thực hiện trên dòng lệnh Linux CentOS*
 
 **Bước 1**: Tải file script
 Thực hiện lệnh sau
@@ -15,6 +15,7 @@ wget https://github.com/tuannt76/Linux/blob/main/LinuxBasic/Ghi_ch%C3%A9p_WordPr
 
 
 **Bước 2**: Cấp quyền thực thi cho script
+
 Thực hiện lệnh:
 
 ```
