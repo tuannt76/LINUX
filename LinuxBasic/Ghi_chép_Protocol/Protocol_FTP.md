@@ -181,7 +181,7 @@ cp /etc/vsftpd/vsftpd.conf /etc/vsftpd/vsftpd.conf.bak|
 ## **3.2 Cấu hình vsftpd**
 Truy cập file cấu hình
 ```
-vi /etc/vsftpd.conf
+vi /etc/vsftpd/vsftpd.conf
 
 ```
 Một số thông số cần chú ý:
