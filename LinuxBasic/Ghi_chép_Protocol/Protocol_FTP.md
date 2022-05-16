@@ -202,7 +202,13 @@ Tất cả các user sẽ hoạt động trong chroot của họ và sẽ không
 
 ```
 chroot\_local\_user=YES
+Chroot_list_enable=YES
 ```
+
+> sửa tài liệu bẫy ở hình dưới
+
+**<h1>BỎ ``#`` ở cả 2 dòng 101 và 102**</h1>
+
 ![](../image/FTP_10.png)
 Các thông số khác:
 
@@ -251,17 +257,9 @@ Tạo tài khoản Local:
 
 ![](../image/FTP_17.png)
 
-3.3.2, Thêm user vào danh sách được truy nhập FTP server tại /etc/vsftpd/user\_list
+><h2>Pass phải đủ kí tự và có viết hoa và kí tự</h2>
 
-Lệnh:
-```
-Vi /etc/vsftpd/user\_list
-```
-Sửa file cấu hình và thêm User của bạn :
-
-![](../image/FTP_18.png)
-
-3.3.3 Thêm user vào danh sách được truy cập FTP server tại /etc/vstfpd/Chorôt\_list
+3.3.2 Thêm user vào danh sách được truy cập FTP server tại /etc/vstfpd/Chorôt\_list
 
 Lệnh: 
 ```
