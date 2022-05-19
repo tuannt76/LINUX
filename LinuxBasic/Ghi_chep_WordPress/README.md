@@ -10,7 +10,7 @@ Thực hiện lệnh sau
 
 ```
 yum install wget -y
-wget https://github.com/tuannt76/Linux/blob/main/LinuxBasic/Ghi_ch%C3%A9p_WordPress/wordpress.sh
+wget https://github.com/tuannt76/Linux/blob/main/LinuxBasic/Ghi_chep_WordPress/wordpress.sh
 ```
 
 
