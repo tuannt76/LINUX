@@ -97,6 +97,6 @@
 
 ## <h2>[5.Wordpress](./LinuxBasic/Ghi_ch%C3%A9p_WordPress/)
 
-1. [Install_WordPress](./LinuxBasic/Ghi_ch%C3%A9p_WordPress/Install_WordPress.md)
+1. [Install_WordPress](./LinuxBasic/Ghi_chep_WordPress/Install_WordPress.md)
 2. [WorldPress_DB_Maria_Cluster](./LinuxBasic/Ghi_chep_WordPress/WordPress+DB%20maria%20cluster.md)
 3. [Script_WP](./LinuxBasic/Ghi_chép_WordPress/)
