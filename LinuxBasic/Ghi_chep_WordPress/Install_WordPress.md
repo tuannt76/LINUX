@@ -9,7 +9,7 @@
 
 Tool Install_WordPress
 
-**https://github.com/TuanNguyen76/TaiLieuCaNhan/tree/T%C3%A0i-li%E1%BB%87u-c%C3%A1-nh%C3%A2n/T%C3%A0i_Li%E1%BB%87u_C%C3%A1_Nh%C3%A2n/LINUX/Tool_Bash_script/SetupWordpress**
+**https://github.com/tuannt76/Linux/blob/main/LinuxBasic/Ghi_chep_WordPress/wordpress.sh**
 
 # Tìm hiểu về Wordpress 
 
