@@ -23,7 +23,7 @@
 
 ### 1.Mô hình mạng
 
-![](../image/proxy01.png)
+![](../image/proxy1.png)
 
 ### 2.Cài đặt Nginx
 
