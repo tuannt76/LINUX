@@ -101,10 +101,4 @@
 2. [WorldPress_DB_Maria_Cluster](./LinuxBasic/Ghi_chep_WordPress/WordPress+DB%20maria%20cluster.md)
 3. [Script_WP](./LinuxBasic/Ghi_chep_WordPress/wordpress.sh)
 
-## <h2>[6. OS](./OS)
-1.[Cài đặt CentOS 7 trên VMwareWroktaion](./OS/install_CentOS7.md)
-2.[Cài đặt CentOS 7 trên máy chủ server](./OS/install_CentOS7_server.md)
-3.[Cài đặt ubuntu 18_04 trên VMwareWroktation](./OS/Install_Ubuntu_18_04.md)
-4.[Cài IP tĩnh cho CentOS 7 và Ubuntu18_04 ](./OS/IP_static_OS.md)
-5.[Cài đăt cho phép SSH tài khoản Root từ xa](./OS/SSH_root_server.md)
-6.[Cài đặt Windows Server trên máy chủ server](./OS/install_Win_server.md)
+
